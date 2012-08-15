@@ -10,8 +10,7 @@ Supports:
 3. CSS
 4. JS
 5. XML
+6. SQL
+7. Yaml
 
-Todos:
-
-1. SQL
-2. Yaml
+Your pull requests are welcomed.
