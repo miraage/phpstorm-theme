@@ -12,5 +12,6 @@ Supports:
 5. XML
 6. SQL
 7. Yaml
+8. Lua
 
 Your pull requests are welcomed.
