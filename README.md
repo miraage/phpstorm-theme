@@ -1,7 +1,7 @@
-PHPStorm theme
+PhpStorm theme
 ==============
 
-Git Hub colors for PHPStorm
+Git Hub syntax colors for PhpStorm
 
 Supports:
 
