@@ -501,7 +501,7 @@
     </option>
     <option name="LUA_LUADOC">
       <value>
-        <option name="FOREGROUND" value="dd1144" />
+        <option name="FOREGROUND" value="999988" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" />
@@ -511,7 +511,7 @@
     </option>
     <option name="LUA_LUADOC_TAG">
       <value>
-        <option name="FOREGROUND" value="dd1144" />
+        <option name="FOREGROUND" value="999988" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -521,7 +521,7 @@
     </option>
     <option name="LUA_LUADOC_VALUE">
       <value>
-        <option name="FOREGROUND" value="dd1144" />
+        <option name="FOREGROUND" value="999988" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
